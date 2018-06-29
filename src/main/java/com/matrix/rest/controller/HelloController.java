@@ -26,7 +26,7 @@ import com.matrix.rest.svc.EmployeeService;
 @RequestMapping("/greet")
 public class HelloController {
 //   http://localhost:8001/greet/name/ram
-
+// hello
 	@Autowired
 	private EmployeeService svc;
 	
